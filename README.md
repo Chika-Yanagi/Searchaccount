@@ -3,8 +3,8 @@
   
 入出力例    
   
-gcc -Wall -std=c99 -o q2-4 q2-4.c  
-./q2-4  
+gcc -Wall -std=c99 -o searchaccount searchaccount.c  
+./searchaccount
 1611001 a1611001  
 1611002 b1611002  
 1611003 c1611003  
